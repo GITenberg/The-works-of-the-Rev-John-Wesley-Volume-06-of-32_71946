@@ -1,0 +1,33 @@
+_repo: The-works-of-the-Rev-John-Wesley-Volume-06-of-32_71946
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wesley, John
+    aliases:
+    - Wesley, John (John Benjamin)
+    - Wesley, Rev. John
+    - Wesley, John (Rev.)
+    birthdate: 1703
+    deathdate: 1791
+    gutenberg_agent_id: '34731'
+    url: http://www.gutenberg.org/2009/agents/34731
+    wikipedia: https://en.wikipedia.org/wiki/John_Wesley
+description: ''
+gutenberg_issued: '2023-10-24'
+identifiers:
+  gutenberg: '71946'
+language: en
+pgterms:marc904: https://archive.org/details/worksofrevjohnwe6wesl
+pgterms:marc905: 20170725123307wesley
+pgterms:marc906: '1771'
+pgterms:marc907: GB
+production_note: Richard Hulse and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBristol :$bWilliam Pine, $c1771.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The works of the Rev. John Wesley, Volume 06 (of 32)
+url: http://www.gutenberg.org/ebooks/71946
